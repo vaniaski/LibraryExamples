@@ -1,2 +1,2 @@
 # LibraryExamples
-Java language is used for the example
+Java language is used for the examples
